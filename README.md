@@ -13,12 +13,12 @@ A bot that will log in to internshala and will keep applying for internships. Us
 # How to use
 
 - Update internshalaConfig as follows:
-   1 email: contains your internshala email id
-   2 password: your internshala password
-   3 answer1: text answer to why you are fit for a particular internship
-   4 answer2: are you available for an internship asap
-   5 answer3: Link to projects/Comments on their website/product
-   6 answer4: can you accomodate yourself in a particular area because the company cannot pay you back for rent, etc
+   1. email: contains your internshala email id
+   2. password: your internshala password
+   3. answer1: text answer to why you are fit for a particular internship
+   4. answer2: are you available for an internship asap
+   5. answer3: Link to projects/Comments on their website/product
+   6. answer4: can you accomodate yourself in a particular area because the company cannot pay you back for rent, etc
    
    Note: answer 3 can be a hit or a miss due to ambiguity, trying to work on a fix currently but you will probably fill wrong answers once in a while
    
